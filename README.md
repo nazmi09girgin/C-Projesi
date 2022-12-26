@@ -1,4 +1,4 @@
-# C-Projesi
+# C-Project
 #include <stdio.h>
 #include <stdlib.h>
 
